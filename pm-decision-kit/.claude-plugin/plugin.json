@@ -1,0 +1,22 @@
+{
+  "name": "pm-decision-kit",
+  "version": "1.0.0",
+  "description": "Decision-grade PM skills: specs, roadmaps, metrics, research synthesis, competitive briefs, stakeholder comms, assumption mapping, red-teaming, and a chained launch-decision workflow — all driven by a single pluggable company-context file.",
+  "author": {
+    "name": "Todd Weidman",
+    "email": "todd.weidman@gmail.com"
+  },
+  "keywords": [
+    "product-management",
+    "prd",
+    "roadmap",
+    "metrics",
+    "red-team",
+    "assumptions",
+    "launch-decision",
+    "stakeholder-communication",
+    "competitive-analysis",
+    "research-synthesis"
+  ],
+  "license": "MIT"
+}
